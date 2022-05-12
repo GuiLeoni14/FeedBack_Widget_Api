@@ -9,8 +9,8 @@ Projeto desenvolvido durante a semana NLW RETURN da Rocketseat.
 + Enviar emails através da api desenvolvida durante o evento.
 
 ## Aprendizado
-+ Ao finalizar este projeto, pratiquei diversos conceitos relacionados a React e Node, dentre eles posso destacar a realização e entendimento de como os dois principais
-níveis da tecnologia no geral se comportam e comunicam.
++ Ao finalizar este projeto, pratiquei diversos conceitos relacionados a React e Node, dentre eles posso destacar a o entendimento de como os dois principais
+níveis da tecnologia se comportam e se comunicam entre si.
 
 ## Instalação
 - `git clone` https://github.com/GuiLeoni14/Feedback_Widget .
